@@ -1,0 +1,20 @@
+{
+	"name":"requestList1",
+	"date_start": "2019-06-22", 
+	"date_end": "2019-06-22",  
+	"song_limit" : 60,
+	"song_list":
+	{
+		"number" : 1,
+		"artist" : "Noisia",
+		"song" : "Tommy's Theme",
+		"user" : "Piskr"
+	},
+		
+	{
+		"number" : 2,
+		"artist" : "UwotM8",
+		"song" : "NegrusMaximus",
+		"user" : "Ollie"
+	}  
+}
